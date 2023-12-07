@@ -1,0 +1,13 @@
+BigramLM-GPT-model-01 hyper params
+
+
+batch_size = 32 
+block_size = 64 
+max_iters = 300
+learning_rate = 3e-4
+eval_iters = 25
+n_embd = 384
+n_layer = 1 
+n_head = 1
+dropout = 0.2
+
