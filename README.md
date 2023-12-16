@@ -2,7 +2,7 @@
 
 Using the Bigram language Model, i attempted to construct and understand the underlying structure of LLM's.
 
-At the beginning of this tutorial, I was unaware of what the Bigram language model was doing, and thought that this approach could produce a GPT level AI.
+At the beginning of this tutorial, I was unaware of what the Bigram language model was doing and how it interacted with the GPTP architecture, and thought that this approach could produce a GPT level AI.
 However the further I progressed, the clearer it became that this was not a possibility. 
 
 This path helped me understand what N-Gram models were doing, the architecture of transformers and the attention matrix that worked behind it.
